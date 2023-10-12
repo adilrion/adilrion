@@ -102,36 +102,10 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adilrion&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=adilrion&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=adilrion&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=adilrion&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="220" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=adilrion&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/adilrion/adilrion/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=adilmahmoudrion&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adilrion&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=adilrion&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
