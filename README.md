@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">🎓 Computer Science & Engineering Student at Dhaka International University.<br><br>💻 Passionate about software engineering, with expertise in JavaScript, Java, HTML, CSS, React.js, Next.js, and Tailwind CSS.<br><br>🚀 Always eager to learn and stay updated on the latest industry trends. Proficient in tools like Git, Netlify, Figma, and Adobe XD.<br><br>📊 Beyond coding, I excel in text editing and presentation tools such as MS Word, MS Excel, and MS PowerPoint.<br><br>🌐 Let's connect and collaborate on exciting projects! 🚀</p>
+<p align="left">🎓 Computer Science & Engineering Student at Dhaka International University.<br><br>💻 Passionate about software engineering, with expertise in JavaScript, Typescript,  Java, Firebase, HTML, CSS, React.js, Next.js, and Tailwind CSS.<br><br>🚀 Always eager to learn and stay updated on the latest industry trends. Proficient in tools like Git, Netlify, Figma, and Adobe XD.<br><br>📊 Beyond coding, I excel in text editing and presentation tools such as MS Word, MS Excel, and MS PowerPoint.<br><br>🌐 Let's connect and collaborate on exciting projects! 🚀</p>
 
 ###
 
